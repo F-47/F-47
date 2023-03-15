@@ -11,7 +11,7 @@
    <p align="center">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
       <a href="https://github.com/Executioner47?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Executioner47?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Executioner47?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
       <a href="https://github.com/Executioner47?tab=repositories&q=&type=&language=&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Executioner47?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
