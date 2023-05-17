@@ -33,6 +33,7 @@
 <p align="left">
 <a href="https://www.facebook.com/fares.galal.733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faresgalal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/fares-galal-ba105223a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fares galal" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/fares-galal-ba105223a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fares galal" height="30" width="40" /></a>
 </p>
 
  ---
